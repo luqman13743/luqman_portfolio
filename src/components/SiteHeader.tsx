@@ -58,7 +58,7 @@ export default function SiteHeader() {
         <div className="section-shell flex min-h-16 items-center justify-between gap-4 sm:min-h-[68px]">
           <Link href="/#top" className="group min-w-0 flex items-baseline gap-2">
             <span className="font-display text-lg font-semibold tracking-tight text-teal-900 sm:text-xl">M. Luqman</span>
-            <span className="field-label hidden sm:inline">/ microbiology</span>
+            <span className="field-label hidden sm:inline">/ microbiologist</span>
           </Link>
 
           <div className="relative shrink-0">
