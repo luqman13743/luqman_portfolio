@@ -17,7 +17,7 @@ export default async function Hero() {
       <div className="section-shell relative grid gap-14 py-16 sm:py-20 lg:grid-cols-[1.1fr_0.9fr] lg:items-center lg:py-28">
         <div>
           <Reveal>
-            <p className="field-label">Portfolio / Microbiology</p>
+            <p className="field-label">Microbiologist</p>
           </Reveal>
           <Reveal delay={0.05}>
             <h1 className="mt-4 font-display text-4xl font-semibold leading-[1.08] tracking-tight text-teal-900 sm:text-5xl lg:text-6xl">
