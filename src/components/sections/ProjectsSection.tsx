@@ -1,4 +1,3 @@
-```tsx
 import { listProjects, getDocument } from "@/lib/repo";
 import Reveal from "../Reveal";
 import SectionHeading from "../SectionHeading";
@@ -96,4 +95,3 @@ export default async function ProjectsSection() {
     </section>
   );
 }
-```
