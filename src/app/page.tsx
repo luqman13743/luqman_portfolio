@@ -2,6 +2,7 @@
 // must be rendered per-request rather than cached as static HTML at build
 // time — otherwise CMS edits wouldn't show up on the live site.
 export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
